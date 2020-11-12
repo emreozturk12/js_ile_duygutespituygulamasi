@@ -1,0 +1,19 @@
+body {
+  background-color: lightpink;
+}
+
+h1 {
+    margin-left: 500px;
+    margin-top: 200px;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+button {
+    background-color: lightpink;
+    font-size: 60px;
+    border: none;
+    font-family: cursive;
+    margin-left: 650px;
+    margin-top: 80px;
+}

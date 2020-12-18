@@ -1,0 +1,15 @@
+body {
+  background-color: lightpink;
+}
+
+h1 {
+    margin-left: 400px;
+    margin-top: auto;
+    font-size: 60px;
+    font-family: cursive;
+}
+video {
+    margin-top: 10px;
+    box-shadow: -2px 12px 20px 0px grey;
+    margin-left: 400px;
+}
